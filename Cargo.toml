@@ -1,0 +1,10 @@
+[package]
+name = "auradb"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jero175"]
+description = "A lightweight vector database for edge computing."
+license = "MIT"
+
+[dependencies]
+# No external dependencies to keep it lightweight!
